@@ -1,5 +1,5 @@
-class postfix:
-    def __init__(self):
+class Evaluate:
+def __init__(self):
         self.stack=[]
         self.maxsize=20
         self.top=-1
